@@ -1,7 +1,7 @@
-##Current code is in src/index.tsx
+### Current code is in src/index.tsx
 Please change it accordingly 
 Please install node.js before running npm start
-
+Fluent UI source,i.e. bottum, text field, select menu at https://developer.microsoft.com/en-us/fluentui#/controls/web
 
 
 
