@@ -1,0 +1,2 @@
+# EvAdd
+The search component
